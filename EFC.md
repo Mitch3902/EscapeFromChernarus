@@ -90,5 +90,4 @@ ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses 
 ## AI Scav Bosses From Escape From Tarkov
 ![alt text](https://github.com/Mitch3902/EscapeFromNamalsk/blob/main/f1f077c3283a-eftsuperpostonedaylifebosstarkovplus21yljpgde379074312ff4ac9e63f1305ed57e12.jpg?raw=true "CBRN")
 ## Will you Survive?
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/tumblr_o6xs8hUO4Z1uxtxoio8_1280.jpg?raw=true "Tarkov")
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/sagdgsagsadgsa.PNG?raw=true "Tarkov")
