@@ -3,10 +3,11 @@
 By [EscapeFromDayz](https://discord.gg/escapefromdayz "escapefromdayz Discord")
 
 
-> Escape From Dayz is a community which was founded in March 2022 and started doing Dayz Servers in July 2022. Our Servers take core ideas from games like Escape From Tarkov and S.T.A.L.K.E.R. and brings them to DayZ. Please Join [Our Discord](https://discord.gg/escapefromdayz "escapefromdayz Discord") To stay up to date on updates/announcements!
+> Escape From Dayz is a community which was founded in March 2022 and started doing Dayz Servers in July 2022. Our Servers take core ideas from games like Escape From Tarkov and brings them to DayZ. Please Join [Our Discord](https://discord.gg/escapefromdayz "escapefromdayz Discord") To stay up to date on updates/announcements!
 
 
 ![alt text](https://github.com/Mitch3902/EscapeFromNamalsk/blob/main/EFN.jpg?raw=true "Loading Screen")
+![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/EscapeFromChernarusLoadingScreenV3.png?raw=true "")
 
 ## Server Description
 
