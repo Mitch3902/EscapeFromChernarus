@@ -60,31 +60,9 @@ ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses 
 
 
 
-## Secure Hidouts
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221117153105_1.jpg?raw=true "Hideout")
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221117153124_1.jpg?raw=true "Hideout")
-
-        -Costs 20M Rubles
-        -Unraidable
-        -Can Hold Cash and Raid Tools
-        -10 Barrels Max (5000 Slots)
-        -Each 500 slot Storage Barrel inside costs 1M Rubles 
-        -Can be placed anywhere 
-        -Stays for two wipes
-
-## Secure Bunkers
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/stash.jpg?raw=true "Bunker")
-
-        - Costs 10M Rubles
-        - Unraidable
-        - Cannot hold cash and Raid Tools
-        - 2 Barrels Max (1000 Slots)
-        - Each 500 slot  Storage Barrel inside costs 1M Rubles 
-        - Can only be placed at Outposts
-        - Stays for one wipe
 
 
-## AI and Event Goon Squad From Escape From Tarkov
+Event Goon Squad From Escape From Tarkov
 ![alt text](https://github.com/Mitch3902/EscapeFromNamalsk/blob/main/escape-from-tarkov-lighthouse-bosses%20(2).jpeg?raw=true "Goons")
 
 ## AI Scav Bosses From Escape From Tarkov
