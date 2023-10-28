@@ -5,7 +5,7 @@ By [EscapeFromDayz](https://discord.gg/escapefromdayz "escapefromdayz Discord")
 
 > Escape From Dayz is a community which was founded in March 2022 and started doing Dayz Servers in July 2022. Our Servers take core ideas from games like Escape From Tarkov and brings them to DayZ. Please Join [Our Discord](https://discord.gg/escapefromdayz "escapefromdayz Discord") To stay up to date on updates/announcements!
 
-![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/EscapeFromChernarusLoadingScreenV3.png?raw=true "")
+![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/Escape_From_DayZ_Chernarus.png?raw=true "")
 ![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/EFDA.jpg?raw=true "Loading Screen")
 
 ## Server Description
@@ -17,7 +17,7 @@ ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses 
 ## Server Features
 
         - Escape From Tarkov Lore, Gear, and Items
-        - Personal Chest Secure Storage (20 slots)
+        - Personal Chest Secure Storage 
         - Base Respawn
         - Custom Map Overhaul
         - Quests
