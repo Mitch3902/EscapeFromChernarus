@@ -3,10 +3,15 @@
 By [EscapeFromDayz](https://discord.gg/escapefromdayz "escapefromdayz Discord")
 
 
+ [Youtube Video](https://youtu.be/EavN_yS56Yk?si=JYC9iG9tmsB0qy7n "Youtube Video")
+
+ [Youtube Video](https://youtu.be/0l9U373H1XY?si=JwrlgJBP7-CpZStk "Youtube Video")
+
+
 > Escape From Dayz is a community which was founded in March 2022 and started doing Dayz Servers in July 2022. Our Servers take core ideas from games like Escape From Tarkov and brings them to DayZ. Please Join [Our Discord](https://discord.gg/escapefromdayz "escapefromdayz Discord") To stay up to date on updates/announcements!
 
-![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/Escape_From_DayZ_Chernarus.png?raw=true "")
-![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/EFDA.jpg?raw=true "Loading Screen")
+![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/Escape_From_Chernarus_LS.png?raw=true "")
+![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/EFDA.jpg?raw=true "")
 
 ## Server Description
 
@@ -17,12 +22,13 @@ ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses 
 ## Server Features
 
         - Escape From Tarkov Lore, Gear, and Items
-        - Personal Chest Secure Storage 
+        - Hyper Modular Weapons (90 guns) 200+ Attachments with ADS, Sway, and Recoil Stats
+        - Personal Locker SZ Stash
         - Base Respawn
         - Custom Map Overhaul
         - Quests
         - Extractions
-        - BaseBuildingPlus
+        - Rearmed Basebuilding
         - Secure Containers (Keep all items inside after death)
         - Groups
         - First Person Only
@@ -31,16 +37,12 @@ ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses 
         - Keycards
         - Keycrates
         - AutoRun
-        - Breaching Charges
-        - Unlimited Stamina
         - Airdrops
         - Custom Clothing
         - Custom HUD/UI
         - Ear Plugs
         - Helicopters
         - No Vehicle Damage
-        - Tactical Flava
-        - EDO Weapons
 
 ## Tarkov Mod Items
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/asdgadsgdsagdsag.png?raw=true "Valubles")
@@ -50,6 +52,17 @@ ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses 
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/gadgasgads.png?raw=true "Collectables")
 ![alt text](https://github.com/BehrTheDon/GGGPics/blob/main/asdgagsadfgds.png?raw=true "Weapons")
 
+## Tarkov Map Recreations
+
+# Customs 
+![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/20231105143717_1.jpg?raw=true "Customs")
+
+# Shoreline
+![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/20231105143610_1.jpg?raw=true "Shoreline")
+
+# Reserve 
+![alt text](https://github.com/Mitch3902/EscapeFromChernarus/blob/main/20231105143837_1.jpg?raw=true "Reserve")
+
 ## Get Quests at the Quest Board
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221116234610_1.jpg?raw=true "Q1")
 ## Or by Talking to NPCs
@@ -57,10 +70,6 @@ ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses 
 ## Extract back to Safezone
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221117000910_1.jpg?raw=true "Q1")
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221117001034_1.jpg?raw=true "Q1")
-
-
-
-
 
 Event Goon Squad From Escape From Tarkov
 ![alt text](https://github.com/Mitch3902/EscapeFromNamalsk/blob/main/escape-from-tarkov-lighthouse-bosses%20(2).jpeg?raw=true "Goons")
